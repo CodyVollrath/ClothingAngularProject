@@ -1,0 +1,27 @@
+.wrapper{
+    width: 250px;
+}
+
+.img {
+    aspect-ratio: 1;
+    object-fit: contian;
+    width: 100%;
+    border-radius: 15px;
+    background-color: grey;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.price-label {
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.price {
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
